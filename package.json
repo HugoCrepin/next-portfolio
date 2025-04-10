@@ -1,0 +1,29 @@
+{
+    "name": "portfolio-pro",
+    "version": "1.0.0",
+    "description": "Portfolio ultra moderne pour présenter mes réalisations en développement web et autres projets.",
+    "main": "index.js",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    },
+    "author": "Votre Nom",
+    "license": "MIT",
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "tailwindcss": "latest",
+      "autoprefixer": "latest",
+      "postcss": "latest",
+      "sass": "latest",
+      "axios": "latest"
+    },
+    "devDependencies": {
+      "eslint": "latest",
+      "eslint-config-next": "latest"
+    }
+  }
+  
